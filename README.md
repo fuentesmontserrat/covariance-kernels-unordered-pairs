@@ -2,6 +2,7 @@
 
 This repository contains platform-independent Python code accompanying the manuscript
 **“Covariance Kernels on Unordered Pair Spaces: Theory and Applications to Network-Valued Data.”**
+https://doi.org/10.20944/preprints202608.1312.v1
 
 No script contains an author-specific absolute path. Input and output locations are supplied at the command line.
 
