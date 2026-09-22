@@ -1,4 +1,5 @@
 # Covariance Kernels on Unordered Pair Spaces — Reproducibility Code
+Reproducibility code for statistical learning and AI methods for network-valued data, including covariance learning on unordered relationships, spectral structure, regularization, truncation, perturbation analysis, and brain-connectivity modeling using the Autism Brain Imaging Data Exchange (ABIDE).
 
 This repository contains platform-independent Python code accompanying the manuscript
 **“Covariance Kernels on Unordered Pair Spaces: Theory and Applications to Network-Valued Data.”**
