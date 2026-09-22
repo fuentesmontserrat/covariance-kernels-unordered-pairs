@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32530865/README.md)
-# covariance-kernels-unordered-pairs
-Reproducibility code for “Covariance Kernels on Unordered Pair Spaces,” including simulations for spectral dimension, risk, truncation, perturbation, and scripts supporting the ABIDE connectome application.
 # Covariance Kernels on Unordered Pair Spaces — Reproducibility Code
 
 This repository contains platform-independent Python code accompanying the manuscript

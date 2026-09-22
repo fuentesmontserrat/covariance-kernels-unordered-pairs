@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript."
+title: "Covariance Kernels on Unordered Pair Spaces: Reproducibility Code"
+type: software
+authors:
+  - family-names: Fuentes
+    given-names: Montserrat
+version: 1.0.0
+date-released: 2026-09-22
