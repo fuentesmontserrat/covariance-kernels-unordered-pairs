@@ -3,7 +3,7 @@ Reproducibility code for statistical learning and AI methods for network-valued 
 
 This repository contains platform-independent Python code accompanying the manuscript
 **“Covariance Kernels on Unordered Pair Spaces: Theory and Applications to Network-Valued Data.”**
-https://doi.org/10.20944/preprints202608.1312.v1
+https://arxiv.org/abs/2609.27879
 
 No script contains an author-specific absolute path. Input and output locations are supplied at the command line.
 
